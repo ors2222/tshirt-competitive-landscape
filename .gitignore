@@ -1,0 +1,13 @@
+node_modules/
+docs/.vitepress/cache/
+docs/.vitepress/dist/
+playwright-report/
+test-results/
+.DS_Store
+.env
+.env.*
+!.env.example
+*.log
+
+# Local-only source material and private working notes.
+references/
